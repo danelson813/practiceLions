@@ -1,0 +1,7 @@
+.venv
+*.csv
+.env
+*.log
+*.db
+data/
+.idea/
